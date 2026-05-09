@@ -1,12 +1,13 @@
-# Merhaba, ben Abdülsamet 👋
+# Hi, I'm Abdülsamet 👋
+<!-- TR: Merhaba, ben Abdülsamet -->
 
-Bilgisayar Mühendisliği öğrencisi — backend'e kafayı takmış, containerdan çıkmayan biri.
+Computer Engineering student — obsessed with backend, living inside containers.
 
-Okul projelerinde C/C++ ve Java yazıyorum, kendi projelerimde Spring Boot + React + Docker stack'iyle uğraşıyorum.
+I write C/C++ and Java for school projects; in my own time I build things with Spring Boot, React, and Docker.
 
 ---
 
-### 🏫 Okul
+### 🏫 At school / Okulda
 
 ![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -14,7 +15,7 @@ Okul projelerinde C/C++ ve Java yazıyorum, kendi projelerimde Spring Boot + Rea
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### 🛠 Kendi projelerimde
+### 🛠 On my own / Kendi projelerimde
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
@@ -25,10 +26,11 @@ Okul projelerinde C/C++ ve Java yazıyorum, kendi projelerimde Spring Boot + Rea
 
 ---
 
-🧠 Şu an microservice mimarisi, Redis cache yönetimi ve container orchestration ve güvenliği üzerine çalışıyorum.
-📖 Sadece kod yazmıyorum/yazdırmıyorum mantığını kavrıyorum.Bilmek yetmez, anlamak lazım.
-🚀 Öğrenciyim ama şimdiden mimariye merakım var.
+### 🔭 What I'm working on / Şu an ne yapıyorum
 
+🧠 I’m currently working on microservice architecture, Redis cache management, and container orchestration and security.
+📖 I don’t just write or have others write code—I grasp the underlying logic. It’s not enough to know; you have to understand.
+🚀 I’m a student, but I’m already fascinated by architecture.
 ---
 
 📫 [github.com/sametakan29](https://github.com/sametakan29)
