@@ -1,26 +1,33 @@
 # Merhaba, ben Abdülsamet 👋
 
-Bilgisayar mühendisliği öğrencisi · Backend & fullstack projelere dalmış biri
+Bilgisayar Mühendisliği öğrencisi — backend'e kafayı takmış, containerdan çıkmayan biri.
+
+Okul projelerinde C/C++ ve Java yazıyorum, kendi projelerimde Spring Boot + React + Docker stack'iyle uğraşıyorum.
 
 ---
 
-### 🏫 Okul projelerinde
-![C](https://img.shields.io/badge/C-blue?style=flat-square)
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square)
-![Java](https://img.shields.io/badge/Java-blue?style=flat-square)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-blue?style=flat-square)
+### 🏫 Okul
 
-### 🛠 Kendi kendime
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat-square)
-![Go](https://img.shields.io/badge/Go-blue?style=flat-square)
-![React](https://img.shields.io/badge/React+MUI-blue?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square)
+![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### 🛠 Kendi projelerimde
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![MUI](https://img.shields.io/badge/MUI-%230081CB?style=flat-square&logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-🧠 Şu an backend mimarisi & container yönetimi üzerine çalışıyorum.
-🚀 Öğrenciyim ama kod yazmayı okul bittikten sonra da bırakmayacağım.
+🧠 Şu an microservice mimarisi, Redis cache yönetimi ve container orchestration üzerine çalışıyorum.
+📖 Algoritma & sistem tasarımı kitapları okuyorum — bilmek yetmez, anlamak lazım.
+🚀 Öğrenciyim ama "mezun olayım da başlayayım" demiyorum.
 
 ---
 
