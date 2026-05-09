@@ -1,16 +1,26 @@
-## Hi there 👋
+# Merhaba, ben Abdülsamet 👋
 
-<!--
-**sametakan29/sametakan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar mühendisliği öğrencisi · Backend & fullstack projelere dalmış biri
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏫 Okul projelerinde
+![C](https://img.shields.io/badge/C-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-blue?style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-blue?style=flat-square)
+
+### 🛠 Kendi kendime
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat-square)
+![React](https://img.shields.io/badge/React+MUI-green?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-green?style=flat-square)
+
+---
+
+🧠 Şu an backend mimarisi & container yönetimi üzerine çalışıyorum.
+🚀 Öğrenciyim ama kod yazmayı okul bittikten sonra da bırakmayacağım.
+
+---
+
+📫 [github.com/sametakan29](https://github.com/sametakan29)
