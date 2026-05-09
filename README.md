@@ -25,9 +25,9 @@ Okul projelerinde C/C++ ve Java yazıyorum, kendi projelerimde Spring Boot + Rea
 
 ---
 
-🧠 Şu an microservice mimarisi, Redis cache yönetimi ve container orchestration üzerine çalışıyorum.
-📖 Algoritma & sistem tasarımı kitapları okuyorum — bilmek yetmez, anlamak lazım.
-🚀 Öğrenciyim ama "mezun olayım da başlayayım" demiyorum.
+🧠 Şu an microservice mimarisi, Redis cache yönetimi ve container orchestration ve güvenliği üzerine çalışıyorum.
+📖 Sadece kod yazmıyorum/yazdırmıyorum mantığını kavrıyorum.Bilmek yetmez, anlamak lazım.
+🚀 Öğrenciyim ama şimdiden mimariye merakım var.
 
 ---
 
