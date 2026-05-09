@@ -13,8 +13,9 @@ Bilgisayar mühendisliği öğrencisi · Backend & fullstack projelere dalmış 
 
 ### 🛠 Kendi kendime
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=flat-square)
-![React](https://img.shields.io/badge/React+MUI-green?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-green?style=flat-square)
+![Go](https://img.shields.io/badge/Go-blue?style=flat-square)
+![React](https://img.shields.io/badge/React+MUI-blue?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square)
 
 ---
 
