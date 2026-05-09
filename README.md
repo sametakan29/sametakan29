@@ -25,12 +25,14 @@ I write C/C++ and Java for school projects; in my own time I build things with S
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
-
 ### 🔭 What I'm working on / Şu an ne yapıyorum
 
-🧠 I’m currently working on microservice architecture, Redis cache management, and container orchestration and security.
-📖 I don’t just write or have others write code—I grasp the underlying logic. It’s not enough to know; you have to understand.
-🚀 I’m a student, but I’m already fascinated by architecture.
+🧠I’m currently working on microservice architecture, Redis cache management, and container orchestration and security.
+
+📖I don’t just write or have others write code—I grasp the underlying logic. It’s not enough to know; you have to understand.
+
+🚀I’m a student, but I’m already fascinated by architecture.
+
 ---
 
 📫 [github.com/sametakan29](https://github.com/sametakan29)
