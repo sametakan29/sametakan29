@@ -10,6 +10,7 @@ I write C/C++ and Java for school projects; in my own time I build things with S
 ### 🏫 At school / Okulda
 
 ![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C#-%2300599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
