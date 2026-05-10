@@ -16,12 +16,14 @@ I write C/C++ and Java for school projects; in my own time I build things with S
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 
+
 ### 🛠 On my own / Kendi projelerimde
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB?style=flat-square&logo=mui&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white)
 
