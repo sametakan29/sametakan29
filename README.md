@@ -37,5 +37,4 @@ I write C/C++ and Java for school projects; in my own time I build things with S
 🚀I’m a student, but I’m already fascinated by architecture.
 
 ---
-![Profil Ziyaretçisi](https://komarev.com/ghpvc/?username=sametakan29&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 📫 [github.com/sametakan29](https://github.com/sametakan29)
