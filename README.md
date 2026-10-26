@@ -37,4 +37,26 @@ I write C/C++ and Java for school projects; in my own time I build things with S
 🚀I’m a student, but I’m already fascinated by architecture.
 
 ---
+<!-- Burkut SDKs & MCP Durumu -->
+<p align="left">
+  <a href="https://github.com/sametakan29/burkut-sdks">
+    <img src="https://img.shields.io/badge/burkut--sdks-official%20repo-007ec6?style=for-the-badge&logo=github&logoColor=white" alt="Burkut SDKs" />
+  </a>
+  <a href="https://pypi.org/project/burkut/">
+    <img src="https://img.shields.io/pypi/v/burkut?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" alt="PyPI Version" />
+  </a>
+  <a href="https://pypi.org/project/burkut/">
+    <img src="https://img.shields.io/pypi/dm/burkut?style=for-the-badge&logo=pypi&logoColor=white&color=4c1&label=PyPI%20Downloads" alt="PyPI Monthly Downloads" />
+  </a>
+  <a href="https://www.npmjs.com/package/burkut">
+    <img src="https://img.shields.io/npm/v/burkut?style=for-the-badge&logo=npm&logoColor=white&color=CB3837" alt="npm Version" />
+  </a>
+  <a href="https://www.npmjs.com/package/burkut">
+    <img src="https://img.shields.io/npm/dm/burkut?style=for-the-badge&logo=npm&logoColor=white&color=4c1&label=npm%20Downloads" alt="npm Monthly Downloads" />
+  </a>
+  <a href="https://www.npmjs.com/package/burkut-mcp">
+    <img src="https://img.shields.io/npm/dm/burkut-mcp?style=for-the-badge&logo=anthropic&logoColor=white&color=6f42c1&label=MCP%20Downloads" alt="MCP Downloads" />
+  </a>
+</p>
+
 📫 [github.com/sametakan29](https://github.com/sametakan29)
